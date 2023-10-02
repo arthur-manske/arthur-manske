@@ -1,32 +1,34 @@
-# 👋 Hello, I'm Arthur Manske (aka /usr/asm)!
+# 👋 Hello, world! I'm Arthur Manske!
 
 ## 🧔 General:
-- 💼 Occupation: Student 
+- 💼 Occupation: Student
+- ⏳ Age: 16 
 - 🌍 Nationality: Brazilian 🇧🇷
-- 🎯 Interests: OS Dev, Compiler Dev and hacking
-- 🖥️ Favorite OS(being manteined): [Alpine Linux](https://alpinelinux.org)
+- 🎯 Interests: Operating system development, compiler development and hacking.
+- 🖥️ Favorite OSes (on active development): [Alpine Linux](https://alpinelinux.org/), [Void Linux](https://voidlinux.org) and [DragonFlyBSD](https://dragonflybsd.org)
 
 ## 💻 Programming Languages:
 - 🚀 Primary: C
-- 🔧 Secondary: C++, Rust[
-- 🎉 Also Familiar With, In Order of Proficiency: X86 Assembly (not exactly a programming language like the others), GDScript, JavaScript, and Python.
-  
-## 🚀 Current Projects:
-### (All projects are currently private, but stay tuned for their release!)
-1. [base](about:blank) - A small collection of utilities inspired by the POSIX spec.
-2. [ALC](about:blank) - Another LibC, a playful take on a tiny C library.
-3. [nb](about:blank) - Niobium Bootloader, a simple bootloader for learning and fun.
-4. [openit](about:blank) - A minimal init system, just for fun.
+- 🔧 Secondaries: C++ and Rust.
+- 🎉 Also know, but use with less frequency: Javascript, Shell script, Python, GDScript, Lua, Typescript, C#, Vala and Assembly (AMD64 and x86).
+
+## ⚙️  Current Projects:
+1. [xd](https://github.com/arthur-manske/xd) - A simple hexdumping utility.
+
+## 🚀 Future Projects (all projects are currently not present in github, they releases will come in some months... or years):
+1. [onebin](https://github.com/arthur-manske/kmin/tree/master/cmd) - "The one binary to rule them all". It's a small collection of utilities that follows the POSIX® guidelines. May have extensions in relation to the default POSIX® behavior.
+2. [devbin](https://github.com/arthur-manske/kmin/tree/master/cmd) -  A `onebin`, but for development utilities. 
+3. [alc](https://github.com/arthur-manske/kmin/tree/master/libs/c) - Another libc, a tiny C library. Mostly POSIX® compliant.
+4. [bb](https://github.com/arthur-manske/kmin/tree/master/boot/) - A basic bootloader.
 
 ## 📁 Old Projects (and private):
-1. [lis](https://github.com/ArthurMXVI/lis) and [rem](https://github.com/ArthurMXVI/lis) - Non-minimal, not-quite-POSIX implementations of `ls` and `rm` in Rust (unlikely to return).
-2. [PioneerCC](about:blank) - A C compiler (may return someday when I have more time, never released in github).
+1. [lis](https://github.com/ArthurMXVI/lis) - Non-POSIX® implementation of `ls` in rust, unlikely to return. 
+2. [rem](https://github.com/ArthurMXVI/rem) - Non-POSIX® implementations of `rm` n rust, unlikely to return.
 
 ## 📬 How to Reach Me?
 - Email: [usr.asm@proton.me](mailto:usr.asm@proton.me)
 
 ## 📢 Social Media (Content in Portuguese, currently inactive):
-- [X/Twitter](https://x.com/ArthurMXVI)
 - [Youtube](https://youtube.com/@ArthurMXVI)
 
-All of my projects have a license, if some of they does not have please contact me to resolve the questions about the usage of the code. 
+All of my projects have a license, if some of they does not have please contact me to resolve the questions about the usage of the code. Always act in good faith.
