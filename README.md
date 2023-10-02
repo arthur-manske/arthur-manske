@@ -8,9 +8,9 @@
 
 ## 💻 Programming Languages:
 - 🚀 Primary: C
-- 🔧 Secondary: C++, Rust
-- 🎉 Also Familiar With: JavaScript, GDScript, Python
-
+- 🔧 Secondary: C++, Rust[
+- 🎉 Also Familiar With, In Order of Proficiency: X86 Assembly (not exactly a programming language like the others), GDScript, JavaScript, and Python.
+  
 ## 🚀 Current Projects:
 ### (All projects are currently private, but stay tuned for their release!)
 1. [base](about:blank) - A small collection of utilities inspired by the POSIX spec.
