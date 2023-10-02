@@ -26,7 +26,7 @@
 - Email: [usr.asm@proton.me](mailto:usr.asm@proton.me)
 
 ## 📢 Social Media (Content in Portuguese, currently inactive):
-- [X/Twitter](https://x.com/ArthurMXVI);
+- [X/Twitter](https://x.com/ArthurMXVI)
 - [Youtube](https://youtube.com/@ArthurMXVI)
 
 All of my projects have a license, if some of they does not have please contact me to resolve the questions about the usage of the code. 
