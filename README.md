@@ -8,7 +8,7 @@
 
 ## 💻 Programming Languages:
 - 🚀 Primary: C
-- 🔧 Secondary: C++, Rust[
+- 🔧 Secondary: C++, Rust
 - 🎉 Also Familiar With, In Order of Proficiency: X86 Assembly (not exactly a programming language like the others), GDScript, JavaScript, and Python.
   
 ## 🚀 Current Projects:
